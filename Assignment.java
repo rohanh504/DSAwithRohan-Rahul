@@ -116,7 +116,7 @@ public class Assignment {
         }
         return grades;
     }
-
+    // 6) OR Factorial of N numbers.
     static void Factorial(int n) {
         int fact = 1;
         for (int i = 1; i <= n; i++) {
